@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ari_ReportProject", "Ari_ReportProject\Ari_ReportProject.csproj", "{854B9986-9F29-42A3-B134-F5F71A4D45EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ari_ReportProject.Tests", "Ari_ReportProject.Tests\Ari_ReportProject.Tests.csproj", "{22AD2C43-07BE-4B78-B905-29B7948F2D13}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{854B9986-9F29-42A3-B134-F5F71A4D45EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{854B9986-9F29-42A3-B134-F5F71A4D45EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{854B9986-9F29-42A3-B134-F5F71A4D45EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{854B9986-9F29-42A3-B134-F5F71A4D45EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22AD2C43-07BE-4B78-B905-29B7948F2D13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22AD2C43-07BE-4B78-B905-29B7948F2D13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22AD2C43-07BE-4B78-B905-29B7948F2D13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22AD2C43-07BE-4B78-B905-29B7948F2D13}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
